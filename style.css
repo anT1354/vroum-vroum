@@ -1,0 +1,44 @@
+html, body {
+  margin: 0;
+ 
+  
+  
+
+}
+
+canvas {
+  display: block;
+}
+h1{
+font-family: 'Franklin Gothic Medium';
+align-items: center;
+font-size: 150px;
+text-shadow: 3px 3px 15px black ;
+color: antiquewhite;
+
+
+
+}
+
+h2{
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium';
+  align-items: left;
+  text-shadow: 3px 3px 15px black;
+  font-style: italic;
+  color: antiquewhite;
+
+
+}
+.imagecentre { 
+  align-items: right;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.iframemargin{
+  margin-left: 405px;
+
+
+
+}
